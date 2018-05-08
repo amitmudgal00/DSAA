@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425588231 source:c:\users\owner\desktop\datastruct1\main.cpp
+	<stdio.h>
+	<iostream>
+
